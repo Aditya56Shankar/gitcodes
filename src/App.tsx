@@ -1,16 +1,16 @@
 import './App.css'
-import { Component } from './components/line-chart'
+
 import Footer from './components/footer'
 
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+
 import { ScrollArea, ScrollBar } from './components/ui/scroll-area'
-import logo from '../src/assets/logo.png'
+
 
 import Header from "@/components/header";
 
 
 function App() {
-  const aClass = 'hover:text-blue-600 hover:scale-125 transition-all duration-200'
+ 
   return (
     <>
       <Header />

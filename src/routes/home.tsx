@@ -1,6 +1,6 @@
 import Header from '@/components/header'
 import Footer from '@/components/footer'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+
 import '../App.css'
 import { Component } from '../components/line-chart'
 import { ScrollArea, ScrollBar } from '../components/ui/scroll-area'
